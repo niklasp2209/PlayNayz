@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.playnayz</groupId>
   <artifactId>PlayNayz</artifactId>
-  <version>1.0.0</version>
+  <version>1.0</version>
   <name>PlayNayz-API</name>
   <url>http://maven.apache.org</url>
 
